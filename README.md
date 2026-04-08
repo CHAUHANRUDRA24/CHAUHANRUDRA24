@@ -38,23 +38,25 @@ I'm a **2nd-year B.Tech ICT student** at G H Patel College of Engineering & Tech
 
 ### 🖥️ Programming
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 ### 🌐 Web Development
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
 
 ### 🔌 Embedded Systems
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-`NodeMCU` `Logic Circuits` `Analog Electronics` `Sensors` `PCB Design`
+![NodeMCU](https://img.shields.io/badge/NodeMCU-2C2C2C?style=flat-square&logo=lua&logoColor=white)
+![Logic Circuits](https://img.shields.io/badge/Logic_Circuits-555555?style=flat-square&logoColor=white)
+![PCB Design](https://img.shields.io/badge/PCB_Design-009900?style=flat-square&logo=altiumdesigner&logoColor=white)
 
 ---
 
@@ -122,6 +124,19 @@ Visualized regional distribution, age-wise patterns, and anomaly detection to su
 
 ---
 
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=CHAUHANRUDRA24&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="Rudra's GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHAUHANRUDRA24&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
+
+<img src="https://streak-stats.demolab.com?user=CHAUHANRUDRA24&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+---
 
 ## 🤝 Let's Connect
 
