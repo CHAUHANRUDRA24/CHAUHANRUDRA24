@@ -122,17 +122,6 @@ Visualized regional distribution, age-wise patterns, and anomaly detection to su
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-![Rudra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CHAUHANRUDRA24&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CHAUHANRUDRA24&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
 
 ## 🤝 Let's Connect
 
