@@ -128,10 +128,6 @@ Visualized regional distribution, age-wise patterns, and anomaly detection to su
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=CHAUHANRUDRA24&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" >
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHAUHANRUDRA24&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" >
-
 <img src="https://streak-stats.demolab.com?user=CHAUHANRUDRA24&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
