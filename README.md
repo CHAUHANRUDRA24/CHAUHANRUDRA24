@@ -25,7 +25,7 @@
 
 > *"Building at the intersection of hardware and software — where circuits meet code."*
 
-I'm a **2nd-year B.Tech ICT student** at G H Patel College of Engineering & Technology (GCET), Anand. I love working on real-world problems — whether it's designing transistor-based logic circuits without a microcontroller, or building full-stack web apps from scratch.
+I'm a B.Tech ICT student** at G H Patel College of Engineering & Technology (GCET), Anand. I love working on real-world problems — whether it's designing transistor-based logic circuits without a microcontroller, or building full-stack web apps from scratch.
 
 - 🔧 Hardware-first thinker who also writes clean code
 - 🏆 **Rank #1** at Technovation Hackathon 2026
