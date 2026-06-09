@@ -1,10 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0891b2&height=220&section=header&text=Rudra%20Chauhan&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Hardware%20%26%20Web%20Engineer%20%7C%20ICT%20%40%20GCET%20Anand&descAlignY=60&descColor=58a6ff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0891b2&height=120&section=header" width="100%"/>
 
-<br/>
+```
+██████╗ ██╗   ██╗██████╗ ██████╗  █████╗      ██████╗██╗  ██╗ █████╗ ██╗   ██╗██╗  ██╗ █████╗ ███╗   ██╗
+██╔══██╗██║   ██║██╔══██╗██╔══██╗██╔══██╗    ██╔════╝██║  ██║██╔══██╗██║   ██║██║  ██║██╔══██╗████╗  ██║
+██████╔╝██║   ██║██║  ██║██████╔╝███████║    ██║     ███████║███████║██║   ██║███████║███████║██╔██╗ ██║
+██╔══██╗██║   ██║██║  ██║██╔══██╗██╔══██╗    ██║     ██╔══██║██╔══██║██║   ██║██╔══██║██╔══██║██║╚██╗██║
+██║  ██║╚██████╔╝██████╔╝██║  ██║██║  ██║    ╚██████╗██║  ██║██║  ██║╚██████╔╝██║  ██║██║  ██║██║ ╚████║
+╚═╝  ╚═╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝     ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
+```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hardware+%26+Web+Engineer+%F0%9F%94%A7;Rank+%231+%E2%80%94+Technovation+Hackathon+2026+%F0%9F%8F%86;Building+circuits+%2B+code+since+day+one;IoT+%7C+Embedded+Systems+%7C+Full-Stack;Trained+at+IIT+Gandhinagar+%F0%9F%8E%93)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hardware+%26+Web+Engineer+%F0%9F%94%A7;Rank+%231+%E2%80%94+Technovation+Hackathon+2026+%F0%9F%8F%86;Building+circuits+%2B+code+since+day+one;IoT+%7C+Embedded+Systems+%7C+Full-Stack)](https://git.io/typing-svg)
 
 <br/>
 
@@ -35,8 +42,8 @@ focus:
   - IoT, Real-World Prototyping & Data Analytics
 highlights :
   - 🏆 Rank #1 — Technovation Hackathon 2026
-  - 🎓 Trained at IIT Gandhinagar (AI + Hackathons)
   - 🔧 Built hardware projects with ZERO microcontrollers
+  - 🚀 SSIP Gujarat Hackathon Finalist (only team from GCET)
 open_to    : Freelance · Collaboration · Internships
 quote      : "Hardware is where logic meets the real world."
 ```
@@ -183,6 +190,8 @@ Comprehensive platform to address safety and logistical challenges of managing h
 
 - ☁️ **Gen AI Academy 2.0 – DevOps Track** · Google Cloud · CI/CD, Kubernetes (GKE), Cloud Deployment
 - 🤖 **Artificial Intelligence Technical Workshop** · IIT Gandhinagar · Core AI & Industry Frameworks
+
+---
 
 ---
 
