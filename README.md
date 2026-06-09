@@ -264,33 +264,6 @@ Comprehensive platform for safety and logistics at high-density venues with a un
 
 </div>
 
-> ⚡ **To activate:** Create `.github/workflows/snake.yml` in this repo → go to **Settings → Actions → General → enable Read & Write permissions** → run the workflow manually once!
-
-```yaml
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: CHAUHANRUDRA24
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
----
 
 <div align="center">
 
