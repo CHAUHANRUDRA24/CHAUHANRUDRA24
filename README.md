@@ -296,7 +296,7 @@ jobs:
 
 ### 🤝 Let's Connect & Build Something Amazing!
 
-📧 **shani.rudra024@gmail.com** · 📞 **+91 9879138147** · 📍 **Lunawada, Gujarat, India**
+📧 **rudrachauhan2475@gmail.com**· 📍 **Lunawada, Gujarat, India**
 
 *"Hardware without software is just sculpture. Software without hardware is just poetry."*
 
