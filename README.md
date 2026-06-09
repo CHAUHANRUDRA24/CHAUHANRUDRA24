@@ -121,58 +121,116 @@ quote      : "Hardware is where logic meets the real world."
 
 ## 🚀 Featured Projects
 
-### 🪖 Smart Safety Helmet *(Oct 2024 – Jan 2025)*
-> **Fully hardware-based smart helmet — zero microcontrollers**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Built with IR, LDR, and humidity sensors for automatic beam control and fog detection. Designed transistor-based switching circuits with an isolated SOS backup battery system for short-circuit protection.
+### 🪖 Smart Safety Helmet
+*(Oct 2024 – Jan 2025)*
 
-`Analog Electronics` `Logic Gates` `Transistor Switching` `Sensors`
+<img src="https://img.shields.io/badge/Hardware_Only-No_MCU-red?style=for-the-badge&logo=espressif&logoColor=white"/>
 
----
+> Fully hardware-based smart helmet — **zero microcontrollers**
 
-### 💡 Dynamic Footlamp *(Dec 2024 – Feb 2025)*
-> **Motion & light-sensing automated lighting — no microcontroller**
+Built with IR, LDR, and humidity sensors for automatic beam control and fog detection. Transistor-based switching circuits with an isolated SOS backup battery system.
 
-Automated footlamp using RCWL motion detection and ambient light sensing with smooth fade transitions for power-efficient, intelligent lighting.
+![Analog Electronics](https://img.shields.io/badge/Analog_Electronics-555?style=flat-square)
+![Logic Gates](https://img.shields.io/badge/Logic_Gates-555?style=flat-square)
+![Transistor Switching](https://img.shields.io/badge/Transistor_Switching-555?style=flat-square)
+![Sensors](https://img.shields.io/badge/Sensors-555?style=flat-square)
 
-`RCWL Sensor` `LDR` `Analog Control` `Power Optimization`
+</td>
+<td width="50%" valign="top">
 
----
+### 💡 Dynamic Footlamp
+*(Dec 2024 – Feb 2025)*
 
-### 🏢 Dayflow HRMS *(Feb 2025 – Mar 2025)*
+<img src="https://img.shields.io/badge/Hardware_Only-No_MCU-orange?style=for-the-badge&logo=arduino&logoColor=white"/>
+
+> Motion & light-sensing automated lighting — **no microcontroller**
+
+Automated footlamp using RCWL motion detection and ambient light sensing with smooth fade transitions for power-efficient intelligent lighting.
+
+![RCWL Sensor](https://img.shields.io/badge/RCWL_Sensor-555?style=flat-square)
+![LDR](https://img.shields.io/badge/LDR-555?style=flat-square)
+![Analog Control](https://img.shields.io/badge/Analog_Control-555?style=flat-square)
+![Power Optimization](https://img.shields.io/badge/Power_Optimization-555?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏢 Dayflow HRMS
+*(Feb 2025 – Mar 2025)*
+
+<img src="https://img.shields.io/badge/Full_Stack-MERN-00979D?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
 > **Web-based Human Resource Management System**
 
 Centralized dashboard for employee records, attendance tracking, and leave management with role-based access for Admins and Employees.
 
-`HTML` `CSS` `JavaScript` `Node.js` `MongoDB`
+![HTML](https://img.shields.io/badge/HTML-555?style=flat-square)
+![CSS](https://img.shields.io/badge/CSS-555?style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-555?style=flat-square)
+![Node.js](https://img.shields.io/badge/Node.js-555?style=flat-square)
+![MongoDB](https://img.shields.io/badge/MongoDB-555?style=flat-square)
 
----
+</td>
+<td width="50%" valign="top">
 
-### 🎵 MoodWave *(Mar 2026 – Apr 2026)*
+### 🎵 MoodWave
+*(Mar 2026 – Apr 2026)*
+
+<img src="https://img.shields.io/badge/Web_App-API_Integration-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
+
 > **Emotion-based music recommendation web app**
 
 Interactive interface that detects user mood and delivers personalized song suggestions via API integration.
 
-`HTML` `CSS` `JavaScript` `API Integration`
+![HTML](https://img.shields.io/badge/HTML-555?style=flat-square)
+![CSS](https://img.shields.io/badge/CSS-555?style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-555?style=flat-square)
+![API Integration](https://img.shields.io/badge/API_Integration-555?style=flat-square)
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### 📊 UIDAI Data & Enrolment Analytics Dashboard *(Jan 2026 – Feb 2026)*
+### 📊 UIDAI Analytics Dashboard
+*(Jan 2026 – Feb 2026)*
+
+<img src="https://img.shields.io/badge/Data_Analytics-Visualization-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+
 > **Data analytics dashboard for UIDAI enrolment datasets**
 
 Visualized regional distribution, age-wise patterns, and anomaly detection to support data-driven decision making.
 
-`Data Analytics` `CSV Processing` `Data Visualization` `Statistical Analysis`
+![Data Analytics](https://img.shields.io/badge/Data_Analytics-555?style=flat-square)
+![CSV Processing](https://img.shields.io/badge/CSV_Processing-555?style=flat-square)
+![Statistical Analysis](https://img.shields.io/badge/Statistical_Analysis-555?style=flat-square)
 
----
+</td>
+<td width="50%" valign="top">
 
 ### 🌊 CrowdFlow *(Latest)*
-> **Real-time AI-powered crowd management command center**
 
-Comprehensive platform to address safety and logistical challenges of managing high-density venues with a unified real-time dashboard.
+<img src="https://img.shields.io/badge/AI_Powered-Real_Time-58A6FF?style=for-the-badge&logo=typescript&logoColor=white"/>
 
-[![CrowdFlow](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/CHAUHANRUDRA24/CrowdFlow)
-`TypeScript` `AI` `Real-Time` `Safety Systems`
+> **Real-time AI crowd management command center**
+
+Comprehensive platform for safety and logistics at high-density venues with a unified real-time dashboard.
+
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CHAUHANRUDRA24/CrowdFlow)
+
+![TypeScript](https://img.shields.io/badge/TypeScript-555?style=flat-square)
+![AI](https://img.shields.io/badge/AI-555?style=flat-square)
+![Real-Time](https://img.shields.io/badge/Real--Time-555?style=flat-square)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -202,10 +260,36 @@ Comprehensive platform to address safety and logistical challenges of managing h
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CHAUHANRUDRA24/CHAUHANRUDRA24/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CHAUHANRUDRA24/CHAUHANRUDRA24/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CHAUHANRUDRA24/CHAUHANRUDRA24/output/github-contribution-grid-snake.svg">
+  <img alt="🐍 Snake eating my contributions" src="https://raw.githubusercontent.com/CHAUHANRUDRA24/CHAUHANRUDRA24/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </picture>
 
 </div>
+
+> ⚡ **To activate:** Create `.github/workflows/snake.yml` in this repo → go to **Settings → Actions → General → enable Read & Write permissions** → run the workflow manually once!
+
+```yaml
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: CHAUHANRUDRA24
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
 
 ---
 
