@@ -264,7 +264,6 @@ Comprehensive platform for safety and logistics at high-density venues with a un
 
 </div>
 
-
 <div align="center">
 
 ### 🤝 Let's Connect & Build Something Amazing!
