@@ -34,8 +34,7 @@ role       : Hardware & Web Engineer
 college    : G H Patel College of Engineering & Technology (GCET), Anand
 degree     : B.Tech — Information & Communication Technology (ICT)
 location   : Lunawada, Gujarat, India 🇮🇳
-email      : shani.rudra024@gmail.com
-phone      : +91 9879138147
+email      : rudrachauhan2475@gmail.com
 focus:
   - Embedded Systems & Transistor-Level Hardware Design
   - Full-Stack Web Development (MERN Stack)
