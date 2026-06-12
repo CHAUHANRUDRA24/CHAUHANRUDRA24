@@ -89,19 +89,43 @@ quote      : "Hardware is where logic meets the real world."
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=CHAUHANRUDRA24&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHAUHANRUDRA24&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<!-- GitHub Stats -->
+![Stars](https://img.shields.io/badge/Stars_Earned-0-yellow?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27)
+![Commits](https://img.shields.io/badge/Total_Commits-225-58A6FF?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1b27)
+![PRs](https://img.shields.io/badge/Total_PRs-5-blueviolet?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27)
+![Issues](https://img.shields.io/badge/Total_Issues-1-red?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27)
+![Contributed](https://img.shields.io/badge/Contributed_To-3_repos-0891b2?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27)
 
 </div>
 
 <div align="center">
 
-<img width="70%" src="https://streak-stats.demolab.com?user=CHAUHANRUDRA24&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly" />
+<!-- Streak Stats -->
+![Total Contributions](https://img.shields.io/badge/Total_Contributions-41-58A6FF?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27)
+![Week Streak](https://img.shields.io/badge/Week_Streak-3_weeks-orange?style=for-the-badge&logo=🔥&logoColor=white&labelColor=1a1b27)
+![Longest Streak](https://img.shields.io/badge/Longest_Week_Streak-4_weeks-green?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27)
 
 </div>
 
 <div align="center">
 
+<!-- Most Used Languages -->
+**🗣️ Most Used Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-39.52%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-36.06%25-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-16.86%25-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-5.24%25-1572B6?style=flat-square&logo=css3&logoColor=white)
+![C++](https://img.shields.io/badge/C++-1.36%25-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0.88%25-3776AB?style=flat-square&logo=python&logoColor=white)
+![Dockerfile](https://img.shields.io/badge/Dockerfile-0.05%25-2496ED?style=flat-square&logo=docker&logoColor=white)
+![C](https://img.shields.io/badge/C-0.04%25-00599C?style=flat-square&logo=c&logoColor=white)
+
+</div>
+
+<div align="center">
+
+<!-- Contribution graph — still attempted, falls back gracefully -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=CHAUHANRUDRA24&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 
 </div>
