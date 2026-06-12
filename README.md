@@ -250,8 +250,6 @@ Comprehensive platform for safety and logistics at high-density venues with a un
 
 ---
 
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -268,7 +266,7 @@ Comprehensive platform for safety and logistics at high-density venues with a un
 
 ### 🤝 Let's Connect & Build Something Amazing!
 
-📧 **rudrachauhan2475@gmail.com**· 📍 **Lunawada, Gujarat, India**
+📧 **rudrachauhan2475@gmail.com** · 📍 **Lunawada, Gujarat, India**
 
 *"Hardware without software is just sculpture. Software without hardware is just poetry."*
 
