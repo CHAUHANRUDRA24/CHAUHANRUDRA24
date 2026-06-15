@@ -85,18 +85,13 @@ quote      : "Hardware is where logic meets the real world."
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Analytics
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/CHAUHANRUDRA24/CHAUHANRUDRA24/main/github-stats-dashboard.svg" width="100%" alt="Rudra Chauhan GitHub Stats Dashboard"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=CHAUHANRUDRA24&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-
+  <img src="https://github-readme-stats.shion.dev/api?username=Pcmhacker-piro&show_icons=true&theme=radical&show=prs_merged,prs_merged_percentage&hide_border=true&border_radius=10" height="180" />
+  <img src="https://streak-stats.demolab.com?user=Pcmhacker-piro&theme=radical&hide_border=true&border_radius=10" height="180" />
+  <br/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Pcmhacker-piro&layout=compact&theme=radical&hide_border=true&border_radius=10" height="150" />
 </div>
 
 ---
