@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0891b2&height=130&section=header&text=Rudra%20Chauhan&fontSize=42&fontColor=58A6FF&animation=fadeIn&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0891b2&height=130&section=header&text=Rudra%20Chauhan&fontSize=42&fontColor=58A6FF&animation=fadeIn&fontAlign=center" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hardware+%26+Web+Engineer+%F0%9F%94%A7;Rank+%231+%E2%80%94+Technovation+Hackathon+2026+%F0%9F%8F%86;Building+circuits+%2B+code+since+day+one;IoT+%7C+Embedded+Systems+%7C+Full-Stack)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hardware+%26+Web+Engineer+%F0%9F%94%A7;Rank+%231+%E2%80%9CAutopsy%22+Hackathon;SSIP+Gujarat+Finalist;Always+Learning%2C+Always+Building+%F0%9F%9A%80)](https://github.com/CHAUHANRUDRA24)
 
 <br/>
 
@@ -86,10 +86,10 @@ quote      : "Hardware is where logic meets the real world."
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CHAUHANRUDRA24&show_icons=true&theme=radical&show=prs_merged,prs_merged_percentage&hide_border=true&border_radius=10&cache_seconds=1800" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CHAUHANRUDRA24&show_icons=true&theme=radical&show=prs_merged,prs_merged_percentage&hide_border=true&border_radius=10&cache_seconds=0" height="180" />
   <img src="https://streak-stats.demolab.com?user=CHAUHANRUDRA24&theme=radical&hide_border=true&border_radius=10" height="180" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHAUHANRUDRA24&layout=compact&theme=radical&hide_border=true&border_radius=10&cache_seconds=1800" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHAUHANRUDRA24&layout=compact&theme=radical&hide_border=true&border_radius=10&cache_seconds=0" height="150" />
 </div>
 
 ---
