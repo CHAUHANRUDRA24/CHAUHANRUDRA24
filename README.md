@@ -86,10 +86,13 @@ quote      : "Hardware is where logic meets the real world."
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CHAUHANRUDRA24&show_icons=true&theme=radical&show=prs_merged,prs_merged_percentage&hide_border=true&border_radius=10&cache_seconds=0" height="180" />
-  <img src="https://streak-stats.demolab.com?user=CHAUHANRUDRA24&theme=radical&hide_border=true&border_radius=10" height="180" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHAUHANRUDRA24&layout=compact&theme=radical&hide_border=true&border_radius=10&cache_seconds=0" height="150" />
+  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CHAUHANRUDRA24&show_icons=true&theme=radical&hide_border=true&border_radius=10)](https://github.com/CHAUHANRUDRA24)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CHAUHANRUDRA24&theme=radical&hide_border=true)](https://github.com/CHAUHANRUDRA24)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CHAUHANRUDRA24&layout=compact&theme=radical&hide_border=true&border_radius=10)](https://github.com/CHAUHANRUDRA24)
+
 </div>
 
 ---
@@ -98,7 +101,7 @@ quote      : "Hardware is where logic meets the real world."
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=CHAUHANRUDRA24&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" width="100%" />
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=CHAUHANRUDRA24&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7)](https://github.com/CHAUHANRUDRA24)
 
 </div>
 
