@@ -1,15 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0891b2&height=120&section=header" width="100%"/>
-
-```
-██████╗ ██╗   ██╗██████╗ ██████╗  █████╗      ██████╗██╗  ██╗ █████╗ ██╗   ██╗██╗  ██╗ █████╗ ███╗   ██╗
-██╔══██╗██║   ██║██╔══██╗██╔══██╗██╔══██╗    ██╔════╝██║  ██║██╔══██╗██║   ██║██║  ██║██╔══██╗████╗  ██║
-██████╔╝██║   ██║██║  ██║██████╔╝███████║    ██║     ███████║███████║██║   ██║███████║███████║██╔██╗ ██║
-██╔══██╗██║   ██║██║  ██║██╔══██╗██╔══██╗    ██║     ██╔══██║██╔══██║██║   ██║██╔══██║██╔══██║██║╚██╗██║
-██║  ██║╚██████╔╝██████╔╝██║  ██║██║  ██║    ╚██████╗██║  ██║██║  ██║╚██████╔╝██║  ██║██║  ██║██║ ╚████║
-╚═╝  ╚═╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝     ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0891b2&height=130&section=header&text=Rudra%20Chauhan&fontSize=42&fontColor=58A6FF&animation=fadeIn&fontAlignY=35" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hardware+%26+Web+Engineer+%F0%9F%94%A7;Rank+%231+%E2%80%94+Technovation+Hackathon+2026+%F0%9F%8F%86;Building+circuits+%2B+code+since+day+one;IoT+%7C+Embedded+Systems+%7C+Full-Stack)](https://git.io/typing-svg)
 
@@ -18,7 +9,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-indol-one-4hi94jyec6.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rudra-chauhan-47bb862b3)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CHAUHANRUDRA24)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shani.rudra024@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rudrachauhan2475@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=CHAUHANRUDRA24&color=0891b2&style=flat-square&label=Profile+Views)
 
@@ -39,6 +30,9 @@ focus:
   - Embedded Systems & Transistor-Level Hardware Design
   - Full-Stack Web Development (MERN Stack)
   - IoT, Real-World Prototyping & Data Analytics
+currently:
+  - 🔭 Building CrowdFlow — an AI-powered crowd management platform
+  - 🌱 Deepening skills in Cloud Deployment & CI/CD (GKE, Kubernetes)
 highlights :
   - 🏆 Rank #1 — Technovation Hackathon 2026
   - 🔧 Built hardware projects with ZERO microcontrollers
@@ -51,14 +45,16 @@ quote      : "Hardware is where logic meets the real world."
 
 ## 🛠️ Tech Stack
 
-### 🖥️ Programming Languages
+**Languages**
+<br/>
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-### 🌐 Web Development
+**Web Development**
+<br/>
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
@@ -68,14 +64,16 @@ quote      : "Hardware is where logic meets the real world."
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### 🔌 Embedded & Hardware
+**Embedded & Hardware**
+<br/>
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
 ![NodeMCU](https://img.shields.io/badge/NodeMCU-2C2C2C?style=flat-square&logo=lua&logoColor=white)
 ![PCB Design](https://img.shields.io/badge/PCB_Design-009900?style=flat-square&logo=altiumdesigner&logoColor=white)
-![Logic Circuits](https://img.shields.io/badge/Logic_Circuits-555555?style=flat-square&logoColor=white)
+![Logic Circuits](https://img.shields.io/badge/Logic_Circuits-555555?style=flat-square)
 
-### 🧰 Tools & Platforms
+**Tools & Platforms**
+<br/>
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
@@ -85,13 +83,19 @@ quote      : "Hardware is where logic meets the real world."
 
 ---
 
-### 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=CHAUHANRUDRA24&show_icons=true&theme=radical&show=prs_merged,prs_merged_percentage&hide_border=true&border_radius=10" height="180" />
+  <img src="https://github-readme-stats.shion.dev/api?username=CHAUHANRUDRA24&show_icons=true&theme=radical&hide_border=true&border_radius=10&count_private=true" height="180" />
   <img src="https://streak-stats.demolab.com?user=CHAUHANRUDRA24&theme=radical&hide_border=true&border_radius=10" height="180" />
-  <br/>
+</div>
+
+<div align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=CHAUHANRUDRA24&layout=compact&theme=radical&hide_border=true&border_radius=10" height="150" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CHAUHANRUDRA24&theme=react-dark&hide_border=true&area=true" width="95%" />
 </div>
 
 ---
@@ -113,7 +117,7 @@ quote      : "Hardware is where logic meets the real world."
 <td width="50%" valign="top">
 
 ### 🪖 Smart Safety Helmet
-*(Oct 2024 – Jan 2025)*
+*Oct 2024 – Jan 2025*
 
 <img src="https://img.shields.io/badge/Hardware_Only-No_MCU-red?style=for-the-badge&logo=espressif&logoColor=white"/>
 
@@ -121,27 +125,21 @@ quote      : "Hardware is where logic meets the real world."
 
 Built with IR, LDR, and humidity sensors for automatic beam control and fog detection. Transistor-based switching circuits with an isolated SOS backup battery system.
 
-![Analog Electronics](https://img.shields.io/badge/Analog_Electronics-555?style=flat-square)
-![Logic Gates](https://img.shields.io/badge/Logic_Gates-555?style=flat-square)
-![Transistor Switching](https://img.shields.io/badge/Transistor_Switching-555?style=flat-square)
-![Sensors](https://img.shields.io/badge/Sensors-555?style=flat-square)
+`Analog Electronics` `Logic Gates` `Transistor Switching` `Sensors`
 
 </td>
 <td width="50%" valign="top">
 
 ### 💡 Dynamic Footlamp
-*(Dec 2024 – Feb 2025)*
+*Dec 2024 – Feb 2025*
 
 <img src="https://img.shields.io/badge/Hardware_Only-No_MCU-orange?style=for-the-badge&logo=arduino&logoColor=white"/>
 
 > Motion & light-sensing automated lighting — **no microcontroller**
 
-Automated footlamp using RCWL motion detection and ambient light sensing with smooth fade transitions for power-efficient intelligent lighting.
+Automated footlamp using RCWL motion detection and ambient light sensing, with smooth fade transitions for power-efficient intelligent lighting.
 
-![RCWL Sensor](https://img.shields.io/badge/RCWL_Sensor-555?style=flat-square)
-![LDR](https://img.shields.io/badge/LDR-555?style=flat-square)
-![Analog Control](https://img.shields.io/badge/Analog_Control-555?style=flat-square)
-![Power Optimization](https://img.shields.io/badge/Power_Optimization-555?style=flat-square)
+`RCWL Sensor` `LDR` `Analog Control` `Power Optimization`
 
 </td>
 </tr>
@@ -149,7 +147,7 @@ Automated footlamp using RCWL motion detection and ambient light sensing with sm
 <td width="50%" valign="top">
 
 ### 🏢 Dayflow HRMS
-*(Feb 2025 – Mar 2025)*
+*Feb 2025 – Mar 2025*
 
 <img src="https://img.shields.io/badge/Full_Stack-MERN-00979D?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
@@ -157,17 +155,13 @@ Automated footlamp using RCWL motion detection and ambient light sensing with sm
 
 Centralized dashboard for employee records, attendance tracking, and leave management with role-based access for Admins and Employees.
 
-![HTML](https://img.shields.io/badge/HTML-555?style=flat-square)
-![CSS](https://img.shields.io/badge/CSS-555?style=flat-square)
-![JavaScript](https://img.shields.io/badge/JavaScript-555?style=flat-square)
-![Node.js](https://img.shields.io/badge/Node.js-555?style=flat-square)
-![MongoDB](https://img.shields.io/badge/MongoDB-555?style=flat-square)
+`HTML` `CSS` `JavaScript` `Node.js` `MongoDB`
 
 </td>
 <td width="50%" valign="top">
 
 ### 🎵 MoodWave
-*(Mar 2026 – Apr 2026)*
+*Mar 2026 – Apr 2026*
 
 <img src="https://img.shields.io/badge/Web_App-API_Integration-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
 
@@ -175,10 +169,7 @@ Centralized dashboard for employee records, attendance tracking, and leave manag
 
 Interactive interface that detects user mood and delivers personalized song suggestions via API integration.
 
-![HTML](https://img.shields.io/badge/HTML-555?style=flat-square)
-![CSS](https://img.shields.io/badge/CSS-555?style=flat-square)
-![JavaScript](https://img.shields.io/badge/JavaScript-555?style=flat-square)
-![API Integration](https://img.shields.io/badge/API_Integration-555?style=flat-square)
+`HTML` `CSS` `JavaScript` `API Integration`
 
 </td>
 </tr>
@@ -186,7 +177,7 @@ Interactive interface that detects user mood and delivers personalized song sugg
 <td width="50%" valign="top">
 
 ### 📊 UIDAI Analytics Dashboard
-*(Jan 2026 – Feb 2026)*
+*Jan 2026 – Feb 2026*
 
 <img src="https://img.shields.io/badge/Data_Analytics-Visualization-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 
@@ -194,14 +185,12 @@ Interactive interface that detects user mood and delivers personalized song sugg
 
 Visualized regional distribution, age-wise patterns, and anomaly detection to support data-driven decision making.
 
-![Data Analytics](https://img.shields.io/badge/Data_Analytics-555?style=flat-square)
-![CSV Processing](https://img.shields.io/badge/CSV_Processing-555?style=flat-square)
-![Statistical Analysis](https://img.shields.io/badge/Statistical_Analysis-555?style=flat-square)
+`Data Analytics` `CSV Processing` `Statistical Analysis`
 
 </td>
 <td width="50%" valign="top">
 
-### 🌊 CrowdFlow *(Latest)*
+### 🌊 CrowdFlow <sub>· Latest</sub>
 
 <img src="https://img.shields.io/badge/AI_Powered-Real_Time-58A6FF?style=for-the-badge&logo=typescript&logoColor=white"/>
 
@@ -211,9 +200,7 @@ Comprehensive platform for safety and logistics at high-density venues with a un
 
 [![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CHAUHANRUDRA24/CrowdFlow)
 
-![TypeScript](https://img.shields.io/badge/TypeScript-555?style=flat-square)
-![AI](https://img.shields.io/badge/AI-555?style=flat-square)
-![Real-Time](https://img.shields.io/badge/Real--Time-555?style=flat-square)
+`TypeScript` `AI` `Real-Time`
 
 </td>
 </tr>
@@ -223,8 +210,8 @@ Comprehensive platform for safety and logistics at high-density venues with a un
 
 ## 🏅 Awards & Recognition
 
-| 🎖️ Award | 🏆 Achievement |
-|-----------|----------------|
+| Award | Achievement |
+|:---:|:---|
 | 🥇 **Rank #1** | Technovation Hackathon 2026 — Hardware Prototyping & Embedded Systems |
 | 🏁 **Finalist** | Vikas Saptah Hackathon 2025 (SSIP Gujarat) — Only team from GCET in finals |
 | 🎓 **Participant** | Codeversity National Level Hackathon 2026 @ IIT Gandhinagar (Team Creato4) |
@@ -250,11 +237,13 @@ Comprehensive platform for safety and logistics at high-density venues with a un
 
 </div>
 
+---
+
 <div align="center">
 
 ### 🤝 Let's Connect & Build Something Amazing!
 
-📧 **rudrachauhan2475@gmail.com** · 📍 **Lunawada, Gujarat, India**
+📧 **rudrachauhan2475@gmail.com** &nbsp;·&nbsp; 📍 **Lunawada, Gujarat, India**
 
 *"Hardware without software is just sculpture. Software without hardware is just poetry."*
 
