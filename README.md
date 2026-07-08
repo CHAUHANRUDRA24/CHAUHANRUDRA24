@@ -86,16 +86,10 @@ quote      : "Hardware is where logic meets the real world."
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=CHAUHANRUDRA24&show_icons=true&theme=radical&hide_border=true&border_radius=10&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CHAUHANRUDRA24&show_icons=true&theme=radical&show=prs_merged,prs_merged_percentage&hide_border=true&border_radius=10&cache_seconds=1800" height="180" />
   <img src="https://streak-stats.demolab.com?user=CHAUHANRUDRA24&theme=radical&hide_border=true&border_radius=10" height="180" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=CHAUHANRUDRA24&layout=compact&theme=radical&hide_border=true&border_radius=10" height="150" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CHAUHANRUDRA24&theme=react-dark&hide_border=true&area=true" width="95%" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHAUHANRUDRA24&layout=compact&theme=radical&hide_border=true&border_radius=10&cache_seconds=1800" height="150" />
 </div>
 
 ---
